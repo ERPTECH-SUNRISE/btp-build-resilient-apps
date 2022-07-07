@@ -1,4 +1,4 @@
-using tfe.service.businessPartnerValidation.AdminService as service from '../../srv/catalog';
+git config --global user.name "John Doe"using tfe.service.businessPartnerValidation.AdminService as service from '../../srv/catalog';
 
 annotate service.Addresses with @(UI : {
     HeaderInfo        : {
